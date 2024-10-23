@@ -1,44 +1,40 @@
-<div align=center>
+<div align="center">
 
+# Hello, I'm HyunJu👏
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/soongu)
-![](https://img.shields.io/github/followers/soongu?style=social)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleemember&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leemember)
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
+<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif" />
 
-![](./치킨.gif)
+## ✨ Front-end Stack ✨
 
+<div>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobx-FF9955?style=flat-square&logo=Mobx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-FD2251?style=flat-square&logo=Recoil&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-0000123?style=flat-square&logo=ReactQuery&logoColor=white"/>
+</div>
 
-  <h3>📚 Tech Stack 📚</h3>
+## ✨ Cowork tools ✨
 
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+</div>
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=Spring Boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Security-6db33f?style=flat&logo=Spring Security&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+<br />
 
-   <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemember&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemember&layout=compact)](https://github.com/leemember/github-readme-stats)
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
- 
-<hr>
-
-[![Soongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-
-[![Soongu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](./chaewon-antifragile.gif)
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
-  
-  
-  </div>
+</div>
