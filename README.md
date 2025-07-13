@@ -59,7 +59,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<!-- <div align="center">
+<div align="center">
   <a href="https://velog.io/@tjdduswns01/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
@@ -67,11 +67,8 @@
     <img
       src="https://img.shields.io/badge/tjdduswns01@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div> -->
+</div>
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemember&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemember&layout=compact)](https://github.com/leemember/github-readme-stats)
 
 </div>
